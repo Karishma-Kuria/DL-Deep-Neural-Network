@@ -7,5 +7,5 @@
 ##e)Tensorflow various variants low level, api, functional, model, builtin</br>
 ##Implementations using tensorflow only from scratch not using high level api  of the same</br>
 ##Implementations using tensorflow only with builtin layers of the same</br>
-## Implementations Using functional api high level api  of tensorflow for the same</br>
-## Implementations using tensorflow only but using high level api
+##Implementations Using functional api high level api  of tensorflow for the same</br>
+##Implementations using tensorflow only but using high level api
